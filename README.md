@@ -29,7 +29,8 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 📊 GitHub Stats (Dynamic via Shields.io)
+![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
+
 
 ![GitHub Followers](https://img.shields.io/github/followers/pouriavj?style=flat-square)
 ![Total Stars](https://img.shields.io/github/stars/pouriavj?style=flat-square)
