@@ -6,9 +6,9 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **frontend and backend modules** to become a full-stack developer  
-- 💡 Previously designed and built **3D printers with various specifications**, including large-format and multi-material models  
-- 🤝 Open to collaborate on **interesting open-source projects**  
+- 🌱 Currently learning **AI, Web Development, and DevOps**
+- 💡 Love exploring new technologies and frameworks
+- 🤝 Open to collaborate on **interesting open-source projects**
 - ⚡ Fun fact: I believe coding is a superpower 🦸
 
 ---
@@ -27,19 +27,17 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 📊 GitHub Stats (Dynamic via Shields.io)
-![GitHub Followers](https://img.shields.io/github/followers/pouriavj?style=flat-square)
-![Total Stars](https://img.shields.io/github/stars/pouriavj?style=flat-square)
-![Public Repos](https://img.shields.io/github/repos/pouriavj?style=flat-square)
+## 📊 GitHub Stats
+![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
 
 ---
 
-## 🖼️ Contributions
-Here’s a snapshot of my GitHub contributions:
-
-![My Contributions](https://raw.githubusercontent.com/pouriavj/pouriavj/main/CONTRIBUTION-SNAPSHOT.png)
-
-> Take a screenshot of your contributions from your GitHub profile, upload it to your repository as `CONTRIBUTION-SNAPSHOT.png`, and the image will display here safely.
+## 🐍 Contribution Snake
+![snake gif](https://github.com/pouriavj/pouriavj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
