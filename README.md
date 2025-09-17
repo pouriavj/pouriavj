@@ -37,8 +37,6 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
 
 
-
-
 ---
 
 ## 🌐 Connect with Me
