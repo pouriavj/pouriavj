@@ -30,12 +30,18 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 📊 GitHub Stats
-![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
+![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GH_TOKEN }})
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&token=${{ secrets.GH_TOKEN }})
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
+---
 
+## 🖼️ Contributions
+Here’s a snapshot of my GitHub contributions:
+
+![My Contributions](https://raw.githubusercontent.com/pouriavj/pouriavj/main/CONTRIBUTION-SNAPSHOT.png)
+
+> Take a screenshot of your contribution graph from your profile, upload it to your repo as `CONTRIBUTION-SNAPSHOT.png`, and the image will display here safely.
 
 ---
 
