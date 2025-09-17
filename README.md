@@ -29,15 +29,22 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 📊 GitHub Stats
-![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
+## 📊 GitHub Stats (Dynamic via Shields.io)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
+![GitHub Followers](https://img.shields.io/github/followers/pouriavj?style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/pouriavj?style=flat-square)
+![Public Repos](https://img.shields.io/github/repos/pouriavj?style=flat-square)
 
 ---
 
+## 🖼️ Contributions
+Here’s a snapshot of my GitHub contributions:
+
+![My Contributions](https://raw.githubusercontent.com/pouriavj/pouriavj/main/CONTRIBUTION-SNAPSHOT.png)
+
+> Take a screenshot of your contributions from your GitHub profile, upload it to your repository as `CONTRIBUTION-SNAPSHOT.png`, and the image will display here safely.
+
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
