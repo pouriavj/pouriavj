@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Pouria
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00FF00&background=00000000&width=500&lines=Full-Stack+Developer;3D+Printer+Engineer;Open-Source+Enthusiast)
-
 Welcome to my GitHub profile! 🚀  
 I’m passionate about **technology, open-source, and creative problem-solving**, and I enjoy building projects that make an impact.
 
@@ -29,9 +27,19 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 📊 GitHub Stats
-![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
+## 📊 GitHub Stats (Dynamic via Shields.io)
+![GitHub Followers](https://img.shields.io/github/followers/pouriavj?style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/pouriavj?style=flat-square)
+![Public Repos](https://img.shields.io/github/repos/pouriavj?style=flat-square)
+
+---
+
+## 🖼️ Contributions
+Here’s a snapshot of my GitHub contributions:
+
+![My Contributions](https://raw.githubusercontent.com/pouriavj/pouriavj/main/CONTRIBUTION-SNAPSHOT.png)
+
+> Take a screenshot of your contributions from your GitHub profile, upload it to your repository as `CONTRIBUTION-SNAPSHOT.png`, and the image will display here safely.
 
 ---
 
