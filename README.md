@@ -23,7 +23,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![DOM](https://img.shields.io/badge/DOM-4CAF50?style=for-the-badge&logo=html5&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-4CAF50?style=for-the-badge)
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
