@@ -49,8 +49,6 @@ Check out my repositories to see examples of these kinds of projects!
 <p align="center">
   <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="380" />
   <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="380" />
-</p>
-<p align="center">
   <img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="380" />
 </p>
 
