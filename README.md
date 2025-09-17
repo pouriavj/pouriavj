@@ -46,9 +46,13 @@ Check out my repositories to see examples of these kinds of projects!
 ---
 
 ## 📊 GitHub Stats
-| GitHub Stats | Most Used Languages | Streak |
-|:------------:|:-----------------:|:------:|
-| ![GitHub Stats](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true) | ![Most Used Languages](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true) | ![Streak Stats](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true) |
+<p align="center">
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="45%" />
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="45%" />
+</p>
 
 ---
 
