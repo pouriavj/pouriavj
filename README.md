@@ -36,10 +36,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
 
----
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/pouriavj/pouriavj/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
