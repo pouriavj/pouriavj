@@ -9,7 +9,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 - 🌱 Currently learning **Back-End packages to become full-stack web developer**
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
-
+- 🖨️ Experienced in **building 3D printers of different specifications**, including large-scale printers with **multi-material and multi-color capability**
 
 ---
 
@@ -27,10 +27,21 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
+## 🖨️ 3D Printer Experience
+I have experience in **building 3D printers of various specifications**, including:  
+- **Large-scale printers** for big projects  
+- **Multi-material and multi-color printing** capabilities  
+- Hardware and firmware design for precision and reliability  
+- Optimization of mechanical and electronic components for high performance  
+
+Check out my repositories to see examples of these kinds of projects!
+
+---
+
 ## 📊 GitHub Stats
-![home page](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true)
-![home page](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true)
-![home page](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true)
+![GitHub Stats](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true)
+![Most Used Languages](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true)
+![Streak Stats](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true)
 
 ---
 
