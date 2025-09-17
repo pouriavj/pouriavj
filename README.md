@@ -9,7 +9,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 - 🌱 Currently learning **Back-End development to become a full-stack web developer**
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
-- 🖨️ Experienced in **building 3D printers of various specifications**, including **large-scale printers with multi-material and multi-color capabilities**
+- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-material and multi-color capabilities**
 - 🛠️ Skilled in **designing, programming, and optimizing both hardware and software systems**
 
 ---
@@ -46,9 +46,13 @@ Check out my repositories to see examples of these kinds of projects!
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true)
-![Most Used Languages](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true)
-![Streak Stats](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true)
+
+<!-- Arranged in a table for better visual alignment -->
+| GitHub Stats | Most Used Languages | Streak |
+|:------------:|:-----------------:|:------:|
+| ![GitHub Stats](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true) | ![Most Used Languages](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true) | ![Streak Stats](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true) |
+
+> ✅ Using a table ensures all three SVGs are aligned and scale nicely on desktop and mobile, keeping a **clean UI/UX layout**.
 
 ---
 
