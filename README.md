@@ -46,13 +46,9 @@ Check out my repositories to see examples of these kinds of projects!
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Arranged in a table for better visual alignment -->
 | GitHub Stats | Most Used Languages | Streak |
 |:------------:|:-----------------:|:------:|
 | ![GitHub Stats](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true) | ![Most Used Languages](https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true) | ![Streak Stats](https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true) |
-
-> ✅ Using a table ensures all three SVGs are aligned and scale nicely on desktop and mobile, keeping a **clean UI/UX layout**.
 
 ---
 
