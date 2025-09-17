@@ -6,10 +6,10 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Back-End development to become a full-stack web developer**
+- 🌱 Currently learning and polishing skills to become a **💻 Full-Stack Web Developer** ![Full-Stack](https://img.shields.io/badge/Full--Stack-💻-blue?style=for-the-badge)
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
-- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-color capabilities**
+- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-material and multi-color capabilities**
 - 🛠️ Skilled in **designing, programming, and optimizing both hardware and software systems**
 
 ---
