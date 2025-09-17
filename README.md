@@ -28,11 +28,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 📊 GitHub Stats
-![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
 
 ---
 
@@ -42,7 +38,5 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 [![Website](https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github)](https://pouriavj.github.io/introduction/)
 
 ---
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pouriavj.pouriavj)
 
 ✨ Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you like my work.
