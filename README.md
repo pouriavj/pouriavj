@@ -46,9 +46,9 @@ Check out my repositories to see examples of these kinds of projects!
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="380" height="150" style="object-fit: contain; margin-right: 10px;" />
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="380" height="150" style="object-fit: contain; margin-right: 10px;" />
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="380" height="150" style="object-fit: contain;" />
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="380" height="150" style="object-fit: contain;" />
   <img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="380" height="150" style="object-fit: contain;" />
 </p>
 
