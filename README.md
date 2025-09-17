@@ -38,10 +38,6 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/pouriavj/pouriavj/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
