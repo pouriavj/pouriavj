@@ -6,7 +6,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **AI, Web Development, and DevOps**
+- 🌱 Currently learning **Back-End packages**
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
 
