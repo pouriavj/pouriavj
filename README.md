@@ -28,7 +28,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 📊 GitHub Stats
-![home page](https://github.com/pouriavj/Blog/blob/main/stats.svg?raw=true)
+![home page](https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true)
 
 ---
 
