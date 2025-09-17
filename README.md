@@ -33,8 +33,8 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR-TWITTER)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com)  
 [![Website](https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github)](https://pouriavj.github.io/introduction/)
 
 ---
