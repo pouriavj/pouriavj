@@ -39,9 +39,9 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ## 🖼️ Contributions
 Here’s a snapshot of my GitHub contributions:
 
-![My Contributions](https://raw.githubusercontent.com/pouriavj/pouriavj/main/CONTRIBUTION-SNAPSHOT.png)
+![My Contributions](https://user-images.githubusercontent.com/YOUR-USERID/CONTRIBUTION-SNAPSHOT.png)
 
-> Take a screenshot of your contribution graph from your profile, upload it to your repo as `CONTRIBUTION-SNAPSHOT.png`, and the image will display here safely.
+> You can take this screenshot manually from your GitHub profile → host it in your repo → replace the URL above.
 
 ---
 
