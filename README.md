@@ -9,7 +9,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 - 🌱 Currently learning **AI, Web Development, and DevOps**
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
-- ⚡ Fun fact: I believe coding is a superpower 🦸
+
 
 ---
 
