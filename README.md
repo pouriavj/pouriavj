@@ -9,7 +9,7 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 - 🌱 Currently learning **Back-End development to become a full-stack web developer**
 - 💡 Love exploring new technologies and frameworks
 - 🤝 Open to collaborate on **interesting open-source projects**
-- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-material and multi-color capabilities**
+- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-color capabilities**
 - 🛠️ Skilled in **designing, programming, and optimizing both hardware and software systems**
 
 ---
