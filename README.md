@@ -30,18 +30,16 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ---
 
 ## 📊 GitHub Stats
-![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GH_TOKEN }})
+![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&token=${{ secrets.GH_TOKEN }})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pouriavj&theme=radical&border_radius=5)
 
 ---
 
-## 🖼️ Contributions
-Here’s a snapshot of my GitHub contributions:
-
-![My Contributions](https://user-images.githubusercontent.com/YOUR-USERID/CONTRIBUTION-SNAPSHOT.png)
-
-> You can take this screenshot manually from your GitHub profile → host it in your repo → replace the URL above.
+## 🐍 Contribution Snake
+![snake gif](https://github.com/pouriavj/pouriavj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
