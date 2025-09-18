@@ -85,9 +85,17 @@ Check out my repositories to see examples of my web development projects!
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com)  
-[![Website](https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github)](https://pouriavj.github.io/introduction/)
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://pouriavj.github.io/introduction/" target="_blank">
+    <img src="https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github" alt="Website"/>
+  </a>
+</p>
 
 ---
 
