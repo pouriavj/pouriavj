@@ -63,7 +63,6 @@ I’ve been building my skills to become a **full-stack web developer**, includi
   <img src="assets/icons/json.svg" alt="JSON" width="60" height="60"/>
   <img src="assets/icons/axios.svg" alt="Axios" width="60" height="60"/>
   <img src="assets/icons/restapi.svg" alt="REST API" width="60" height="60"/>
-  <img src="assets/icons/git.svg" alt="Git" width="60" height="60"/>
   <img src="assets/icons/bash.svg" alt="Bash" width="60" height="60"/>
   <img src="assets/icons/vscode.svg" alt="VSCode" width="60" height="60"/>
   <img src="assets/icons/sql.svg" alt="SQL" width="60" height="60"/>
