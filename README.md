@@ -55,10 +55,7 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
 ### 🔧 Tools & Languages
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
 
 
 Check out my repositories to see examples of my web development projects!  
