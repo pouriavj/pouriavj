@@ -67,7 +67,7 @@ I’ve been building my skills to become a **full-stack web developer**, includi
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
   <img src="assets/icons/sql.svg" alt="SQL" height="60"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
-  <img src="assets/icons/git.svg" alt="Canva" height="10"/>
+  <img src="assets/icons/git.svg" alt="Canva" height="20"/>
 </p>
 
 Check out my repositories to see examples of my web development projects!  
