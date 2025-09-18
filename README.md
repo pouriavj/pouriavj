@@ -56,8 +56,8 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 
 ### 🔧 Additional Tools & Web Development
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="assets/icons/jquery.svg" alt="jQuery" width="60" height="60"/>
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="60"/>
+  <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
   <img src="assets/icons/npm.svg" alt="npm" width="60" height="60"/>
   <img src="assets/icons/ejs.svg" alt="EJS" width="60" height="60"/>
   <img src="assets/icons/json.svg" alt="JSON" width="60" height="60"/>
