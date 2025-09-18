@@ -55,23 +55,11 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
 ### 🔧 Tools & Languages
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/jquery.png" alt="jQuery" title="jQuery"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express" title="Express"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/npm.png" alt="npm" title="npm"/>
-  <img src="https://img.icons8.com/color/48/json.png" alt="JSON" title="JSON"/>
-  <img src="https://img.icons8.com/color/48/api.png" alt="REST API" title="REST API"/>
-  <img src="https://img.icons8.com/color/48/axios.png" alt="Axios" title="Axios"/>
-  <img src="https://img.icons8.com/color/48/ejs.png" alt="EJS" title="EJS"/>
-  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" title="Canva"/>
-</p>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
 
 Check out my repositories to see examples of my web development projects!  
 
