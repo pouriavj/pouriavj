@@ -49,12 +49,12 @@ Check out my repositories to see examples of these kinds of projects!
 I’ve been building my skills to become a **full-stack web developer**, including:  
 
 - 🌱 Learning **Front-End technologies**: HTML, CSS, JavaScript, React, Bootstrap, jQuery, DOM manipulation, and Canva for UI design  
-- ⚡ Exploring **Back-End development**: Node.js, Express, EJS, PostgreSQL, JSON handling, REST APIs, Axios, and npm for package management  
+- ⚡ Exploring **Back-End development**: Node.js, Express, EJS, PostgreSQL, JSON handling, REST APIs, Axios, and npm 
 - 🛠️ Building **full-stack projects** integrating front-end and back-end systems  
 - 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
-### 🔧 Additional Tools
+### 🔧 Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
