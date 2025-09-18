@@ -56,43 +56,20 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 
 ### 🔧 Additional Tools & Web Development
 <p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/bootstrap.svg" alt="Bootstrap" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/jquery.svg" alt="jQuery" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/npm.svg" alt="npm" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/ejs.svg" alt="EJS" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/json.svg" alt="JSON" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/axios.svg" alt="Axios" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/restapi.svg" alt="REST API" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/git.svg" alt="Git" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/bash.svg" alt="Bash" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/vscode.svg" alt="VSCode" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/sql.svg" alt="SQL" style="max-width:100%; max-height:100%;" />
-  </div>
-  <div style="width:70px; height:70px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/icons/canva.svg" alt="Canva" style="max-width:100%; max-height:100%;" />
-  </div>
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/jquery.svg" alt="jQuery" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/npm.svg" alt="npm" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/ejs.svg" alt="EJS" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/json.svg" alt="JSON" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/axios.svg" alt="Axios" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/restapi.svg" alt="REST API" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/git.svg" alt="Git" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/bash.svg" alt="Bash" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/vscode.svg" alt="VSCode" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/sql.svg" alt="SQL" width="60" height="60" style="object-fit: contain;" />
+  <img src="assets/icons/canva.svg" alt="Canva" width="60" height="60" style="object-fit: contain;" />
 </p>
+
 
 
 
