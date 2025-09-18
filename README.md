@@ -56,19 +56,44 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 
 ### 🔧 Additional Tools & Web Development
 <p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/jquery.svg" alt="jQuery" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/npm.svg" alt="npm" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/ejs.svg" alt="EJS" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/json.svg" alt="JSON" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/axios.svg" alt="Axios" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/restapi.svg" alt="REST API" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/git.svg" alt="Git" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/bash.svg" alt="Bash" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/vscode.svg" alt="VSCode" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/sql.svg" alt="SQL" width="60" height="60" style="object-fit: contain;" />
-  <img src="assets/icons/canva.svg" alt="Canva" width="60" height="60" style="object-fit: contain;" />
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/bootstrap.svg" alt="Bootstrap" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/jquery.svg" alt="jQuery" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/npm.svg" alt="npm" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/ejs.svg" alt="EJS" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/json.svg" alt="JSON" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/axios.svg" alt="Axios" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/restapi.svg" alt="REST API" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/git.svg" alt="Git" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/bash.svg" alt="Bash" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/vscode.svg" alt="VSCode" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/sql.svg" alt="SQL" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
+  <span style="display:inline-block; width:70px; height:70px;">
+    <img src="assets/icons/canva.svg" alt="Canva" style="width:100%; height:100%; object-fit: contain;" />
+  </span>
 </p>
+
 
 
 
