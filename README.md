@@ -54,7 +54,7 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
-### 🔧 Additional Tools & Web Development
+### 🔧 Additional Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
