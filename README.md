@@ -65,7 +65,10 @@ I’ve been building my skills to become a **full-stack web developer**, includi
   <img src="assets/icons/restapi.svg" alt="REST API" width="40" height="40"/>
   <img src="assets/icons/axios.svg" alt="Axios" width="40" height="40"/>
   <img src="assets/icons/ejs.svg" alt="EJS" width="40" height="40"/>
-  <img src="assets/icons/Canva_logo.svg" alt="Canva" width="40" height="40"/>
+  <img src="assets/icons/canva.svg" alt="Canva" width="40" height="40"/>
+  <img src="assets/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="assets/icons/bash.svg" alt="Bash" width="40" height="40"/>
+  <img src="assets/icons/vscode.svg" alt="Vscode" width="40" height="40"/>
 </p>
 
 
