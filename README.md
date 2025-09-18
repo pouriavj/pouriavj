@@ -54,47 +54,44 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <span style="display: inline-block; width: 40px; height: 40px;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/bootstrap.svg" alt="Bootstrap" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/jquery.svg" alt="jQuery" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/npm.svg" alt="npm" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/ejs.svg" alt="EJS" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/json.svg" alt="JSON" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/axios.svg" alt="Axios" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/restapi.svg" alt="REST API" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/git.svg" alt="Git" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/bash.svg" alt="Bash" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/vscode.svg" alt="VSCode" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/sql.svg" alt="SQL" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
-  <span style="display: inline-block; width: 40px; height: 40px;">
+  <span style="display: inline-block; width: 6px; height: 6px;">
     <img src="assets/icons/canva.svg" alt="Canva" style="width: 100%; height: 100%; object-fit: contain;" />
   </span>
 </p>
-
-
-
 
 
 
