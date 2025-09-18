@@ -55,6 +55,19 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
 ### 🔧 Tools & Languages
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+  
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="assets/icons/jquery.svg" alt="jQuery" width="40" height="40"/>
+  <img src="assets/icons/sql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="assets/icons/npm.svg" alt="npm" width="40" height="40"/>
+  <img src="assets/icons/json.svg" alt="JSON" width="40" height="40"/>
+  <img src="assets/icons/restapi.svg" alt="REST API" width="40" height="40"/>
+  <img src="assets/icons/axios.svg" alt="Axios" width="40" height="40"/>
+  <img src="assets/icons/ejs.svg" alt="EJS" width="40" height="40"/>
+  <img src="assets/icons/Canva_logo.svg" alt="Canva" width="40" height="40"/>
+</p>
+
 
 
 
