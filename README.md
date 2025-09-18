@@ -53,7 +53,6 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 🛠️ Building **full-stack projects** integrating front-end and back-end systems  
 - 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
-
 ---
 ### 🔧 Most used tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
