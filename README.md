@@ -54,27 +54,22 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
-### 🔧 Tools & Languages
+### 🔧 Additional Tools & Web Development
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-  <img src="assets/icons/HTML5.svg" alt="HTML5" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/CSS3.svg" alt="CSS3" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/JavaScript.svg" alt="JavaScript" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/React.svg" alt="React" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/jQuery.svg" alt="jQuery" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Nodejs.svg" alt="Node.js" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Express.svg" alt="Express" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/npm.svg" alt="npm" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/EJS.svg" alt="EJS" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/JSON.svg" alt="JSON" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Axios.svg" alt="Axios" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/RESTAPI.svg" alt="REST API" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Git.svg" alt="Git" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Bash.svg" alt="Bash" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/VSCode.svg" alt="VSCode" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/SQL.svg" alt="SQL" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="assets/icons/Canva.svg" alt="Canva" width="60" height="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
+  <img src="assets/icons/jquery.svg" alt="jQuery" width="60" height="60"/>
+  <img src="assets/icons/npm.svg" alt="npm" width="60" height="60"/>
+  <img src="assets/icons/ejs.svg" alt="EJS" width="60" height="60"/>
+  <img src="assets/icons/json.svg" alt="JSON" width="60" height="60"/>
+  <img src="assets/icons/axios.svg" alt="Axios" width="60" height="60"/>
+  <img src="assets/icons/restapi.svg" alt="REST API" width="60" height="60"/>
+  <img src="assets/icons/git.svg" alt="Git" width="60" height="60"/>
+  <img src="assets/icons/bash.svg" alt="Bash" width="60" height="60"/>
+  <img src="assets/icons/vscode.svg" alt="VSCode" width="60" height="60"/>
+  <img src="assets/icons/sql.svg" alt="SQL" width="60" height="60"/>
+  <img src="assets/icons/canva.svg" alt="Canva" width="60" height="60"/>
 </p>
+
 
 
 
