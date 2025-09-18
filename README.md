@@ -27,7 +27,6 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### Programming & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -43,6 +42,38 @@ I work on **custom 3D printer projects**, including:
 - ⚡ Optimization of **mechanical and electronic components** for high performance  
 
 Check out my repositories to see examples of these kinds of projects!
+
+---
+
+## 💻 Web Development Journey
+I’ve been building my skills to become a **full-stack web developer**, including:  
+
+- 🌱 Learning **Front-End technologies**: HTML, CSS, JavaScript, React, Bootstrap, jQuery, DOM manipulation, and Canva for UI design  
+- ⚡ Exploring **Back-End development**: Node.js, Express, EJS, PostgreSQL, JSON handling, REST APIs, Axios, and npm for package management  
+- 🛠️ Building **full-stack projects** integrating front-end and back-end systems  
+- 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
+- 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
+
+### 🔧 Tools & Languages
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/jquery.png" alt="jQuery" title="jQuery"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express" title="Express"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/npm.png" alt="npm" title="npm"/>
+  <img src="https://img.icons8.com/color/48/json.png" alt="JSON" title="JSON"/>
+  <img src="https://img.icons8.com/color/48/api.png" alt="REST API" title="REST API"/>
+  <img src="https://img.icons8.com/color/48/axios.png" alt="Axios" title="Axios"/>
+  <img src="https://img.icons8.com/color/48/ejs.png" alt="EJS" title="EJS"/>
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" title="Canva"/>
+</p>
+
+Check out my repositories to see examples of my web development projects!  
 
 ---
 
