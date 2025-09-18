@@ -86,22 +86,17 @@ Check out my repositories to see examples of my web development projects!
 
 ## 🌐 Connect with Me
 <p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; align-items:center;">
-  <a href="https://www.linkedin.com/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="120" height="35"/>
-    </span>
+  <a href="https://www.linkedin.com/" target="_blank" style="display:inline-block; text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="120" height="35"/>
   </a>
-  <a href="https://twitter.com" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;">
-      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter" width="120" height="35"/>
-    </span>
+  <a href="https://twitter.com" target="_blank" style="display:inline-block; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter" width="120" height="35"/>
   </a>
-  <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;">
-      <img src="https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github" alt="Website" width="120" height="35"/>
-    </span>
+  <a href="https://pouriavj.github.io/introduction/" target="_blank" style="display:inline-block; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Introduction-000?style=for-the-badge&logo=github" alt="Website" width="120" height="35"/>
   </a>
 </p>
+
 
 
 ---
