@@ -55,19 +55,19 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 - 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 
 ### 🔧 Additional Tools & Web Development
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="assets/icons/jquery.svg" alt="jQuery" width="60" height="60"/>
-  <img src="assets/icons/npm.svg" alt="npm" width="60" height="60"/>
-  <img src="assets/icons/ejs.svg" alt="EJS" width="60" height="60"/>
-  <img src="assets/icons/json.svg" alt="JSON" width="60" height="60"/>
-  <img src="assets/icons/axios.svg" alt="Axios" width="60" height="60"/>
-  <img src="assets/icons/restapi.svg" alt="REST API" width="60" height="60"/>
-  <img src="assets/icons/git.svg" alt="Git" width="60" height="60"/>
-  <img src="assets/icons/bash.svg" alt="Bash" width="60" height="60"/>
-  <img src="assets/icons/vscode.svg" alt="VSCode" width="60" height="60"/>
-  <img src="assets/icons/sql.svg" alt="SQL" width="60" height="60"/>
-  <img src="assets/icons/canva.svg" alt="Canva" width="60" height="60"/>
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="70" height="70"/>
+  <img src="assets/icons/jquery.svg" alt="jQuery" width="70" height="70"/>
+  <img src="assets/icons/npm.svg" alt="npm" width="70" height="70"/>
+  <img src="assets/icons/ejs.svg" alt="EJS" width="70" height="70"/>
+  <img src="assets/icons/json.svg" alt="JSON" width="70" height="70"/>
+  <img src="assets/icons/axios.svg" alt="Axios" width="70" height="70"/>
+  <img src="assets/icons/restapi.svg" alt="REST API" width="70" height="70"/>
+  <img src="assets/icons/git.svg" alt="Git" width="70" height="70"/>
+  <img src="assets/icons/bash.svg" alt="Bash" width="70" height="70"/>
+  <img src="assets/icons/vscode.svg" alt="VSCode" width="70" height="70"/>
+  <img src="assets/icons/sql.svg" alt="SQL" width="70" height="70"/>
+  <img src="assets/icons/canva.svg" alt="Canva" width="70" height="70"/>
 </p>
 
 
