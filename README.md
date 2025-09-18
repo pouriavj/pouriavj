@@ -57,17 +57,20 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 ### 🔧 Additional Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
+  <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
   <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
   <img src="assets/icons/npm.svg" alt="npm" height="60"/>
   <img src="assets/icons/ejs.svg" alt="EJS" height="60"/>
   <img src="assets/icons/json.svg" alt="JSON" height="60"/>
   <img src="assets/icons/axios.svg" alt="Axios" height="60"/>
   <img src="assets/icons/restapi.svg" alt="REST API" height="60"/>
+  <img src="assets/icons/git.svg" alt="Git" height="20"/>
   <img src="assets/icons/bash.svg" alt="Bash" height="60"/>
-  <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
   <img src="assets/icons/sql.svg" alt="SQL" height="60"/>
-  <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
-  <img src="assets/icons/git.svg" alt="Canva" height="20"/>
+  <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
+  
+  
+ 
 </p>
 
 Check out my repositories to see examples of my web development projects!  
