@@ -74,13 +74,13 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 Check out my repositories to see examples of my web development projects!  
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="450" height="180" style="object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="450" height="180" style="object-fit: contain;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouriavj&theme=radical&border_radius=10&border_color=FFFFFF" width="450" height="180" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="420" height="170" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="420" height="170" style="object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouriavj&theme=radical&border_radius=10&border_color=FFFFFF" width="420" height="170" style="object-fit: contain;" />
 </p>
-
 
 ---
 
