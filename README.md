@@ -77,9 +77,14 @@ Check out my repositories to see examples of my web development projects!
 
 ## 📊 GitHub Stats
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:30px;">
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="400" height="160" style="object-fit: contain;" />
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="400" height="160" style="object-fit: contain;" />
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="400" height="160" style="object-fit: contain;" />
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=true&count_private=true&text_color=ff0000&icon_color=ff0000&title_color=ff0000" width="400" height="160" style="object-fit: contain;" />
+
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=true&text_color=ff0000&title_color=ff0000" width="400" height="160" style="object-fit: contain;" />
+
+  <!-- GitHub streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouriavj&theme=radical&hide_border=true&stroke=ff0000&fire=ff0000&currStreakNum=ff0000&currStreakLabel=ff0000&sideNums=ff0000" width="400" height="160" style="object-fit: contain;" />
 </p>
 
 ---
