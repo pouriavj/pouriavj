@@ -76,12 +76,11 @@ Check out my repositories to see examples of my web development projects!
 ---
 
 ## 📊 GitHub Stats
-
-<img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px; margin-bottom: 15px;" />  
-<img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px; margin-bottom: 15px;" />  
-<img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px; margin-bottom: 15px;" />
-
-
+<p align="left" style="display:flex; justify-content:flex-start; flex-wrap:wrap; gap:30px; margin-left:auto; margin-right:auto;">
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/stats.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px;" />
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/mostUsed.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px;" />
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/streak.svg?raw=true" width="400" height="160" style="object-fit: contain; border: 2px solid white; border-radius: 10px;" />
+</p>
 
 
 ---
