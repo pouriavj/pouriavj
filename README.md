@@ -77,14 +77,9 @@ Check out my repositories to see examples of my web development projects!
 
 ## 📊 GitHub Stats
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:30px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=dark&hide_border=true&count_private=true&text_color=ff4c4c&icon_color=ff4c4c&title_color=ff4c4c" width="400" height="160" style="object-fit: contain;" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=dark&hide_border=true&text_color=ff4c4c&title_color=ff4c4c" width="400" height="160" style="object-fit: contain;" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouriavj&theme=dark&hide_border=true&stroke=ff4c4c&fire=ff4c4c&currStreakNum=ff4c4c&currStreakLabel=ff4c4c&sideNums=ff4c4c" width="400" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=true" width="400" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=true" width="400" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouriavj&theme=radical&hide_border=true" width="400" height="160" style="object-fit: contain;" />
 </p>
 
 ---
