@@ -59,7 +59,7 @@ I’ve been building my skills to become a **full-stack web developer**, includi
 ---
 
 ## 🔧 Most used tools
-<p style="display:flex; justify-content:flex-start; flex-wrap:wrap; gap:15px;">
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
   <img src="assets/icons/react.svg" alt="React" height="60"/>
@@ -80,7 +80,7 @@ Check out my repositories to see examples of my web development projects!
 ---
 
 ## 📊 GitHub Stats
-<p style="display:flex; justify-content:flex-start; flex-wrap:wrap; gap:20px; align-items:center;">
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="400" height="165" style="object-fit: cover;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&border_color=FFFFFF" width="400" height="165" style="object-fit: cover;" />
 </p>
