@@ -66,7 +66,7 @@ I’ve been building my skills to become a **full-stack web developer**, includi
   <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
   <img src="assets/icons/npm.svg" alt="npm" height="60"/>
   <img src="assets/icons/ejs.svg" alt="EJS" height="60"/>
-  <img src="assets/icons/json.svg" alt="JSON" height="60"/>
+  <img src="assets/icons/CSS.svg" alt="CSS" height="60"/>
   <img src="assets/icons/axios.svg" alt="Axios" height="60"/>
   <img src="assets/icons/restapi.svg" alt="REST API" height="60"/>
   <img src="assets/icons/git.svg" alt="Git" height="20"/>
