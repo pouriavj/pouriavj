@@ -1,16 +1,18 @@
 # Hi there 👋, I'm Pouria
 
 Welcome to my GitHub profile! 🚀  
-I’m passionate about **technology, open-source, and creative problem-solving**, and I enjoy building projects that make an impact.
+I'm a **full-stack web developer** passionate about creating modern, responsive, and efficient web applications.  
+I enjoy building projects that combine **design, logic, and performance**, and I’m always looking for ways to improve user experience and code quality.
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Back-End packages to become a full-stack web developer**
-- 💡 Love exploring new technologies and frameworks
-- 🤝 Open to collaborate on **interesting open-source projects**
-- 🖨️ Experienced in **building 3D printers of different specifications**, including **large-scale printers with multi-color capabilities**
-- 🛠️ Skilled in **designing, programming, and optimizing both hardware and software systems**
+### 👨‍💻 About Me  
+- 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
+- ⚛️ Currently expanding my **React** and component-based UI knowledge  
+- 🧠 Passionate about JavaScript, clean architecture, and modern web standards  
+- 🤝 Open to collaborating on **web applications and open-source projects**  
+- 🖨️ Background in **3D printer design and firmware development**, with strong hardware–software integration experience  
+
 
 ---
 
@@ -37,25 +39,24 @@ I’m passionate about **technology, open-source, and creative problem-solving**
 
 ---
 
-## 🖨️ 3D Printer Experience
-I work on **custom 3D printer projects**, including:  
-- ⚙️ **Large-scale printers** for big parts  
-- 🎨 **Multi-material and multi-color printing**  
-- 🔧 Hardware and firmware design for **precision and reliability**  
-- ⚡ Optimization of **mechanical and electronic components** for high performance  
+### 💻 Web Development Focus  
+I specialize in building **dynamic full-stack web applications** that focus on speed, reliability, and clean UI/UX.  
+My core strengths include:  
+- Developing **responsive front-end interfaces** with React, Bootstrap, and modern CSS  
+- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL  
+- Implementing **authentication, data validation, and session management**  
+- Integrating **front-end and back-end systems** for seamless user experiences  
+- Following **best practices**, modular design, and efficient development workflows  
+
 
 Check out my repositories to see examples of these kinds of projects!
 
 ---
 
-## 💻 Web Development Journey
-I’ve been building my skills to become a **full-stack web developer**, including:  
+### 🖨️ 3D Printer Background  
+Before focusing on web development, I worked on **custom 3D printer projects** — from hardware design to firmware programming.  
+This experience strengthened my **engineering mindset**, precision, and problem-solving skills, which now guide my approach to web development.
 
-- 🌱 Learning **Front-End technologies**: HTML, CSS, JavaScript, React, Bootstrap, jQuery, DOM manipulation, and Canva for UI design  
-- ⚡ Exploring **Back-End development**: Node.js, Express, EJS, PostgreSQL, JSON handling, REST APIs, Axios, and npm 
-- 🛠️ Building **full-stack projects** integrating front-end and back-end systems  
-- 💡 Gaining experience in **problem-solving, optimization, and real-world application development**  
-- 📚 Continuously expanding knowledge of **new frameworks, tools, and best practices**  
 ---
 
 ## 🔧 Most used tools
