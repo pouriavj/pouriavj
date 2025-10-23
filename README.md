@@ -79,7 +79,6 @@ That engineering experience taught me **system-level thinking**, innovation, and
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
 </p>
 
-Check out my repositories to see examples of my web development projects!  
 
 ---
 
