@@ -9,7 +9,8 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 ### 👨‍💻 About Me  
 - 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
-- 🧠 Passionate about JavaScript, clean architecture, and modern web standards  
+- 🧠 My core tech stack includes **JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
+- 🎨 Focused on building **clean, maintainable, and responsive** user interfaces  
 - 🤝 Open to collaborating on **web applications and open-source projects**  
 - 🖨️ Background in **3D printer design and firmware development**, with strong hardware–software integration experience  
 
@@ -49,13 +50,15 @@ My core strengths include:
 - Following **best practices**, modular design, and efficient development workflows  
 
 
+
 Check out my repositories to see examples of these kinds of projects!
 
 ---
 
 ### 🖨️ 3D Printer Background  
-Before focusing on web development, I worked on **custom 3D printer projects** — from hardware design to firmware programming.  
-This experience strengthened my **engineering mindset**, precision, and problem-solving skills, which now guide my approach to web development.
+Before focusing on web development, I worked on **custom 3D printer projects**, including the design and programming of a **large-scale, multi-color printer** for which I developed a **patent design**.  
+These projects involved mechanical design, electronics, and firmware optimization for precise multi-material printing.  
+That engineering experience taught me **system-level thinking**, innovation, and attention to detail — qualities I now apply to every web project I build.
 
 ---
 
