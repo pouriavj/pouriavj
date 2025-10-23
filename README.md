@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Pouria
 
 Welcome to my GitHub profile! 🚀  
-I'm a **full-stack web developer** passionate about creating modern, responsive, and efficient web applications.  
+I'm a **Junior full-stack web developer** passionate about creating modern, responsive, and efficient web applications.  
 I enjoy building projects that combine **design, logic, and performance**, and I’m always looking for ways to improve user experience and code quality.
 
 ---
