@@ -18,44 +18,36 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
-
----
-
-### Front-End
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
-
-  <!-- 🧠 Tech Stack Badges -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <!-- 🧩 Left Column: All Tech Badges -->
+  <div style="flex: 1; min-width: 250px; max-width: 600px; display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
   </div>
 
-  <!-- 💼 Portfolio Website Button -->
-  <div style="display:flex; justify-content:center; align-items:center;">
+  <!-- 🌐 Right Column: Portfolio Button -->
+  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center; align-items: center;">
     <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-f5ba13?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Website"/>
+      <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-f5ba13?style=for-the-badge&logo=firefox&logoColor=black&labelColor=f5ba13" 
+           alt="Portfolio Website" 
+           style="padding: 20px 40px; font-size: 1.2em; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
     </a>
   </div>
 
 </div>
 
 
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Additional Programming & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 ---
