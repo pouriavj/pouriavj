@@ -6,14 +6,16 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ---
 
-> 💼 **Portfolio:**  
-> Check out my projects and live demos here  
-> <a href="https://pouriavj.github.io/introduction/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Portfolio-6A5ACD?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<div align="center" style="background: linear-gradient(90deg, #f5ba13, #fcd34d); padding: 14px 24px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+
+  <a href="https://pouriavj.github.io/introduction/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+
+</div>
 
 ---
 
-
----
 
 
 ---
