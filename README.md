@@ -1,5 +1,6 @@
+<!-- Top Cover Image -->
 <p align="center">
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/assets/icons/hi-there.png" alt="Cover Image" width="100%" height="400px" />
+  <img src="https://github.com/pouriavj/pouriavj/assets/icons/hi-there.png" alt="Cover Image" width="80%" style="max-height:200px; object-fit:cover; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 ---
