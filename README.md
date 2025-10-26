@@ -57,7 +57,7 @@ Check out my repositories to see examples of these kinds of projects!
 
 
 
-## 🔧 Most used tools
+## 🔧 Most Used Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
