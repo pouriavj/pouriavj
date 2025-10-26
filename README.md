@@ -24,6 +24,7 @@ My core strengths include:
 - Implementing **authentication, data validation, and session management**  
 - Integrating **front-end and back-end systems** for seamless user experiences  
 - Following **best practices**, modular design, and efficient development workflows  
+
 Check out my repositories to see examples of these kinds of projects!
 
 ---
