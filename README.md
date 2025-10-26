@@ -6,15 +6,19 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ---
 
-<div align="center" style="background: linear-gradient(90deg, #f5ba13, #fcd34d); padding: 14px 24px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+<div align="center" style="border: 2px solid #f5ba13; border-radius: 10px; padding: 20px; background: #fff8e1; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
+  <h2>🚀 Portfolio Website</h2>
+  <p>Explore my latest projects, designs, and full-stack works.</p>
+  
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
   </a>
 
 </div>
 
 ---
+
 
 
 
