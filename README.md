@@ -56,31 +56,6 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ---
 
-
-### 💻 Web Development Focus  
-I specialize in building **dynamic full-stack web applications** that focus on speed, reliability, and clean UI/UX.  
-My core strengths include:  
-- Developing **responsive front-end interfaces** with React, Bootstrap, and modern CSS  
-- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL  
-- Implementing **authentication, data validation, and session management**  
-- Integrating **front-end and back-end systems** for seamless user experiences  
-- Following **best practices**, modular design, and efficient development workflows  
-
-
-
-Check out my repositories to see examples of these kinds of projects!
-
----
-
-### 🖨️ 3D Printer Background  
-Before focusing on web development, I worked on **custom 3D printer projects**, including the design and programming of a **large-scale, multi-color printer** for which I developed a **patent design**.  
-These projects involved mechanical design, electronics, and firmware optimization for precise multi-material printing.  
-That engineering experience taught me **system-level thinking**, innovation, and attention to detail — qualities I now apply to every web project I build.
-
----
-
-
-
 ## 🔧 Most used tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
@@ -110,6 +85,30 @@ That engineering experience taught me **system-level thinking**, innovation, and
 
 
 ---
+
+
+### 💻 Web Development Focus  
+I specialize in building **dynamic full-stack web applications** that focus on speed, reliability, and clean UI/UX.  
+My core strengths include:  
+- Developing **responsive front-end interfaces** with React, Bootstrap, and modern CSS  
+- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL  
+- Implementing **authentication, data validation, and session management**  
+- Integrating **front-end and back-end systems** for seamless user experiences  
+- Following **best practices**, modular design, and efficient development workflows  
+
+
+
+Check out my repositories to see examples of these kinds of projects!
+
+---
+
+### 🖨️ 3D Printer Background  
+Before focusing on web development, I worked on **custom 3D printer projects**, including the design and programming of a **large-scale, multi-color printer** for which I developed a **patent design**.  
+These projects involved mechanical design, electronics, and firmware optimization for precise multi-material printing.  
+That engineering experience taught me **system-level thinking**, innovation, and attention to detail — qualities I now apply to every web project I build.
+
+---
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
