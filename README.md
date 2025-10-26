@@ -5,11 +5,10 @@ I'm a **Junior full-stack web developer** passionate about creating modern, resp
 I enjoy building projects that combine **design, logic, and performance**, and I’m always looking for ways to improve user experience and code quality.
 
 ---
+<div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 600px; margin: auto;">
 
-<div align="center" style="border: 2px solid #f5ba13; border-radius: 10px; padding: 20px; background: #fff8e1; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-
-  <h2>🚀 Portfolio Website</h2>
-  <p>Explore my latest projects, designs, and full-stack works.</p>
+  <h2 style="color:#333; font-weight:600;">🚀 Portfolio Website</h2>
+  <p style="font-size:15px; color:#555;">Explore my featured projects, live demos, and full-stack works.</p>
   
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
@@ -17,7 +16,7 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 </div>
 
----
+
 
 
 
