@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pouriavj/pouriavj/blob/main/assets/icons/hi-there.png" alt="Cover Image" width="100%" height="100rem" />
+  <img src="https://github.com/pouriavj/pouriavj/blob/main/assets/icons/hi-there.png" alt="Cover Image" width="100%" height="0.5em" />
 </p>
 
 ---
