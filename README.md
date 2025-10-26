@@ -16,7 +16,7 @@
 
 
 ---
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
