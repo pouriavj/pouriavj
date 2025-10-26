@@ -1,12 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 16px;">
-  <h1 style="font-family: 'McLaren', sans-serif; font-weight: 200; color: white; margin: 0;">
-    Hi there 👋, I'm Pouria
+<div style="background:#f5ba13; margin:auto -16px; padding:24px 32px; box-shadow:0 0 10px rgba(0,0,0,0.3); border-radius:12px; text-align:center;">
+  <h1 style="font-family:'McLaren', sans-serif; font-weight:200; color:white; font-size:3rem; line-height:1.2;">
+    Hi there 👋,<br/>I'm <span style="color:#fff; text-shadow:2px 2px 4px rgba(0,0,0,0.3);">Pouria</span>
   </h1>
-  <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <p style="color:#fff; font-size:1.2rem; margin-top:12px; font-weight:300;">
+    Junior Full-Stack Web Developer | Creating modern, responsive, and efficient web applications
+  </p>
 </div>
-
 
 
 ---
