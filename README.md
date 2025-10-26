@@ -20,7 +20,7 @@
 I specialize in building **dynamic full-stack web applications** that focus on speed, reliability, and clean UI/UX.  
 My core strengths include:  
 - Developing **responsive front-end interfaces** with React, Bootstrap, and modern CSS  
-- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL  
+- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL as database 
 - Implementing **authentication, data validation, and session management**  
 - Integrating **front-end and back-end systems** for seamless user experiences  
 - Following **best practices**, modular design, and efficient development workflows  
