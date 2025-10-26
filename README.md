@@ -3,8 +3,6 @@
   <img src="https://github.com/pouriavj/pouriavj/blob/main/hello.png" alt="Cover Image" width="100%" object-fit:cover; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
----
-
 ## 👨‍💻 About Me  
 - 💻 **Junior Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
