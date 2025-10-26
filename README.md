@@ -25,19 +25,26 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 ---
 
 ### Front-End
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+
+  <!-- 🧠 Tech Stack Badges -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
-  <!-- 💼 Portfolio Website Button -->
-  <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-f5ba13?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
-  </a>
+  </div>
 
-</p>
+  <!-- 💼 Portfolio Website Button -->
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-f5ba13?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Website"/>
+    </a>
+  </div>
+
+</div>
 
 
 ### Back-End
