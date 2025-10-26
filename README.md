@@ -35,13 +35,7 @@ I enjoy building projects that combine **design, logic, and performance**, and I
     <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   </div>
 
-  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center; align-items: center;">
-    <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-f5ba13?style=for-the-badge&logo=firefox&logoColor=black&labelColor=f5ba13" 
-           alt="Portfolio Website" 
-           style="padding: 20px 40px; font-size: 1.2em; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);"/>
-    </a>
-  </div>
+  
 
 </div>
 
