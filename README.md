@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 - 💻 **Junior Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
-- 🧠 My core tech stack includes **JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
+- 🧰 My core tech stack includes **JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
 - 🎨 Focused on building **clean, maintainable, and responsive** user interfaces  
 - 🤝 Open to collaborating on **web applications and open-source projects**  
 - 🖨️ Background in **3D printer design and firmware development**, with strong hardware–software integration experience  
