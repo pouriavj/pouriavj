@@ -1,9 +1,11 @@
-# Hi there 👋, I'm Pouria
-
-Welcome to my GitHub profile! 🚀  
-I'm a **Junior full-stack web developer** passionate about creating modern, responsive, and efficient web applications.  
-I enjoy building projects that combine **design, logic, and performance**, and I’m always looking for ways to improve user experience and code quality.
-
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 16px;">
+  <h1 style="font-family: 'McLaren', sans-serif; font-weight: 200; color: white;">
+    Hi there 👋, I'm Pouria
+  </h1>
+  <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
