@@ -24,7 +24,7 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 ---
 
 ## 👨‍💻 About Me  
-- 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
+- 💻 **Junior Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
 - 🧠 My core tech stack includes **JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
 - 🎨 Focused on building **clean, maintainable, and responsive** user interfaces  
