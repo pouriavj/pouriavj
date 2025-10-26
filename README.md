@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/pouriavj/pouriavj/blob/main/hello.png" 
        alt="Cover Image" 
-       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%; height: auto;" />
+       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%; " />
 </p>
 
 ## 👨‍💻 About Me  
