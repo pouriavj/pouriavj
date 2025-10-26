@@ -1,9 +1,8 @@
-<!-- Top Cover Image (Bigger Version) -->
+
 <p align="center">
   <img src="https://github.com/pouriavj/pouriavj/blob/main/hello.png" 
        alt="Cover Image" 
-       width="900" 
-       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 100%; height: auto;" />
 </p>
 
 
