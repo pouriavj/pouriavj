@@ -24,10 +24,20 @@ My core strengths include:
 - Implementing **authentication, data validation, and session management**  
 - Integrating **front-end and back-end systems** for seamless user experiences  
 - Following **best practices**, modular design, and efficient development workflows  
-
-
-
 Check out my repositories to see examples of these kinds of projects!
+
+---
+
+<div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 600px; margin: auto;">
+
+  <h2 style="color:#333; font-weight:600;">🚀 Portfolio Website</h2>
+  <p style="font-size:15px; color:#555;">Explore my featured projects, live demos, and full-stack works.</p>
+  
+  <a href="https://pouriavj.github.io/introduction/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
+  </a>
+
+</div>
 
 ---
 
@@ -89,18 +99,7 @@ Check out my repositories to see examples of these kinds of projects!
 
 ---
 
-<div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 600px; margin: auto;">
 
-  <h2 style="color:#333; font-weight:600;">🚀 Portfolio Website</h2>
-  <p style="font-size:15px; color:#555;">Explore my featured projects, live demos, and full-stack works.</p>
-  
-  <a href="https://pouriavj.github.io/introduction/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
-  </a>
-
-</div>
-
----
 
 ### 🖨️ 3D Printer Background  
 Before focusing on web development, I worked on **custom 3D printer projects**, including the design and programming of a **large-scale, multi-color printer** for which I developed a **patent design**.  
