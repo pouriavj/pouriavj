@@ -1,15 +1,12 @@
-<div style="display: flex; align-items: center; width: 100%; margin-bottom: 16px; gap: 10px;">
-  <div style="flex: 10;">
-    <h1 style="font-family: 'McLaren', sans-serif; font-weight: 200; color: white; margin: 0;">
-      Hi there 👋, I'm Pouria
-    </h1>
-  </div>
-  <div style="flex: 2; display: flex; justify-content: flex-end;">
-    <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 16px;">
+  <h1 style="font-family: 'McLaren', sans-serif; font-weight: 200; color: white; margin: 0;">
+    Hi there 👋, I'm Pouria
+  </h1>
+  <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </div>
+
 
 
 ---
