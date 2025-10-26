@@ -6,6 +6,14 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ---
 
+<p align="center">
+  <a href="https://pouriavj.github.io/introduction/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me  
 - 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
