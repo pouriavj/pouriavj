@@ -20,22 +20,34 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ## 🧠 Tech Stack
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
-  <!-- 🧩 Left Column: All Tech Badges -->
-  <div style="flex: 1; min-width: 250px; max-width: 600px; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="flex: 1; min-width: 250px; max-width: 600px; display: flex; flex-direction: column; align-items: center; gap: 15px;">
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <div style="text-align:center;">
+      <strong>Front-End</strong><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    </div>
+
+    <div style="text-align:center;">
+      <strong>Back-End</strong><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </div>
+
+    <div style="text-align:center;">
+      <strong>Additional Programming & Tools</strong><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+    </div>
 
   </div>
 
-  <!-- 🌐 Right Column: Portfolio Button -->
   <div style="flex: 1; min-width: 250px; display: flex; justify-content: center; align-items: center;">
     <a href="https://pouriavj.github.io/introduction/" target="_blank" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-f5ba13?style=for-the-badge&logo=firefox&logoColor=black&labelColor=f5ba13" 
@@ -45,8 +57,6 @@ I enjoy building projects that combine **design, logic, and performance**, and I
   </div>
 
 </div>
-
-
 
 
 
