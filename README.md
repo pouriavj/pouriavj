@@ -20,14 +20,24 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 
 ## 🛠️ Tech Stack
 
+<div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 18px; background: #fff8e1; box-shadow: 0 0 10px rgba(0,0,0,0.15); max-width: 700px; margin: 20px auto;">
+
+  <h3 style="color:#333; font-weight:600;">🌐 Portfolio Website</h3>
+  <p style="font-size:14px; color:#555;">See how I use these technologies in real-world projects.</p>
+  
+  <a href="https://pouriavj.github.io/introduction/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
+  </a>
+
+</div>
+
+---
+
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,6 +48,7 @@ I enjoy building projects that combine **design, logic, and performance**, and I
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 ---
 
