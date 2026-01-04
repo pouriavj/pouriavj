@@ -80,15 +80,29 @@ Check out my repositories to see examples of these kinds of projects!
 ## 📊 GitHub Stats
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=false&border_radius=10&scale=2" width="420" style="object-fit: cover;" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&scale=2" width="417" style="object-fit: cover;" />
-
-
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&scale=2" width="417" style="object-fit: cover;" />
 </p>
 
 
 ---
+
+<div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 800px; margin: auto;">
+
+  <h2 style="color:#333; font-weight:600;">📫 Contact Me</h2>
+  <p style="font-size:15px; color:#555;">Feel free to reach out via LinkedIn or email (safe GitHub noreply email)</p>
+
+  <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:108181964+pouriavj@users.noreply.github.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-108181964%2Bpouriavj@users.noreply.github.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+--- 
+
 
 <div align="center" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 800px; margin: auto;">
 
