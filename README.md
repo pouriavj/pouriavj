@@ -80,7 +80,7 @@ Check out my repositories to see examples of these kinds of projects!
 ## 📊 GitHub Stats
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pouriavj&show_icons=true&theme=radical&hide_border=false&border_radius=10&scale=2" width="420" style="object-fit: cover;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&scale=2" width="417" style="object-fit: cover;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pouriavj&layout=compact&theme=radical&hide_border=false&border_radius=10&scale=2" width="400" style="object-fit: cover;" />
 </p>
 
 
