@@ -81,7 +81,7 @@
 
 
 ---
-
+<div style="display: flex;">
 <div align="left" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 800px; margin: auto;">
 
   <h2 style="color:#333; font-weight:600;">📫 Contact Me</h2>
@@ -90,8 +90,6 @@
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-
 
 </div>
 <div align="left" style="border: 2px solid #f5ba13; border-radius: 12px; padding: 24px; background: #fff8e1; box-shadow: 0 0 12px rgba(0,0,0,0.15); max-width: 800px; margin: auto;">
@@ -104,7 +102,7 @@
   </a>
 
 </div>
-
+</div>
 --- 
 
 
