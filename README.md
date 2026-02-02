@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 - 💻 **Full-stack web developer** building modern, production-ready web applications  
 - ⚛️ Working with **React, Next.js, and TypeScript** using component-based architecture  
-- 🎨 **UI/UX-focused**, designing interfaces with **Figma** and **Adobe XD**  
+- 🎨 **UI/UX-focused**, designing interfaces with **Adobe XD** and  **Figma** 
 - 🧰 Tech stack: **HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MUI, Bootstrap**  
 - 🐳 Experience with **Docker**, REST APIs, authentication, and front–back integration  
 - 🖨️ Engineering background in **3D printer design & firmware development**
