@@ -91,9 +91,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=108181964%2Bpouriavj%40users.noreply.github.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 
 </div>
