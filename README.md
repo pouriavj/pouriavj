@@ -94,7 +94,7 @@
 </div>
 <div width="350">
 
-  <h2 style="color:#333; font-weight:600;">🚀 Portfolio Website</h2>
+ 🚀 Portfolio Website
   <p style="font-size:15px; color:#555;">Explore my featured projects, live demos, and full-stack works.</p>
   
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
