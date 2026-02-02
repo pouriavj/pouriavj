@@ -81,29 +81,15 @@
 
 
 ---
-<p style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
-<div width="350">
-
-  📫 Contact Me
-  
-
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-</div>
-<div width="350">
-
- 🚀 Portfolio Website
-  
-  
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
   </a>
 
-</div>
-</p> 
-
+</p>
 
 --- 
 
