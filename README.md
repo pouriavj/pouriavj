@@ -82,8 +82,9 @@
 
 
 ---
-📬Contact Me
+
 <p  align="center" style="display:flex;">
+  📬Contact Me
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="268"/>
   </a>
