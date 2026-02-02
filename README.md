@@ -7,25 +7,13 @@
 
 
 ## 👨‍💻 About Me  
-- 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
-- ⚛️ Currently expanding my **React** and component-based UI knowledge  
-- 🧰 My core tech stack includes **HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
-- 🎨 Focused on building **clean, maintainable, and responsive** user interfaces  
-- 🤝 Open to collaborating on **web applications and open-source projects**  
-- 🖨️ Background in **3D printer design and firmware development**, with strong hardware–software integration experience  
+- 💻 **Full-stack web developer** building modern, production-ready web applications  
+- ⚛️ Working with **React, Next.js, and TypeScript** using component-based architecture  
+- 🎨 **UI/UX-focused**, designing interfaces with **Figma** and **Adobe XD**  
+- 🧰 Tech stack: **HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MUI, Bootstrap**  
+- 🐳 Experience with **Docker**, REST APIs, authentication, and front–back integration  
+- 🖨️ Engineering background in **3D printer design & firmware development**
 
-
----
-## 💻 Web Development Focus  
-I specialize in building **dynamic full-stack web applications** that focus on speed, reliability, and clean UI/UX.  
-My core strengths include:  
-- Developing **responsive front-end interfaces** with React, Bootstrap, and modern CSS  
-- Building and managing **RESTful APIs** using Node.js, Express, and PostgreSQL as database 
-- Implementing **authentication, data validation, and session management**  
-- Integrating **front-end and back-end systems** for seamless user experiences  
-- Following **best practices**, modular design, and efficient development workflows  
-
-Check out my repositories to see examples of these kinds of projects!
 
 ---
 
