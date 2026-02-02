@@ -61,7 +61,7 @@
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
   <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="20"/>
   <img src="https://img.icons8.com/color/48/cloudflare.png" alt="Cloudflare" height="60"/>
-<img src="https://img.icons8.com/fluency/48/nginx.png" alt="Nginx" height="60"/>
+
 
 
 </p>
