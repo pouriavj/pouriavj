@@ -85,7 +85,7 @@
 <div width="350">
 
   📫 Contact Me
-  <p style="font-size:15px; color:#555;">Feel free to reach out via LinkedIn or email </p>
+  
 
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -95,7 +95,7 @@
 <div width="350">
 
  🚀 Portfolio Website
-  <p style="font-size:15px; color:#555;">Explore my featured projects, live demos, and full-stack works.</p>
+  
   
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
