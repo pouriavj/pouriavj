@@ -82,7 +82,7 @@
 
 ---
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
-<div width="350">
+<div width="350px">
 
   <h2 style="color:#333; font-weight:600;">📫 Contact Me</h2>
   <p style="font-size:15px; color:#555;">Feel free to reach out via LinkedIn or email </p>
