@@ -50,8 +50,6 @@
   <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" height="20"/>
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
-  <img src="assets/icons/react.svg" alt="React" height="60"/>
-  <img src="assets/icons/CSS.svg" alt="CSS" height="60"/>
   <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
   <img src="assets/icons/npm.svg" alt="npm" height="60"/>
   <img src="assets/icons/ejs.svg" alt="EJS" height="60"/>
