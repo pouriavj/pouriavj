@@ -81,12 +81,12 @@
 
 
 ---
-<p  align="center" style="display:flex;">
+<p  align="left" style="display:flex;">
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="420"/>
   </a>
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB300?style=for-the-badge&logo=windowsterminal&logoColor=black" alt="Portfolio Website" width="420"/>
   </a>
 
 </p>
