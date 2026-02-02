@@ -83,7 +83,7 @@
 ---
 <p  align="center" style="display:flex;">
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="240" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="250" height="50"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://pouriavj.github.io/introduction/" target="_blank">
