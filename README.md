@@ -81,7 +81,7 @@
 
 
 ---
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
+<p style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
 <div width="350">
 
   📫 Contact Me
@@ -102,7 +102,7 @@
   </a>
 
 </div>
-</div> 
+</p> 
 
 
 --- 
