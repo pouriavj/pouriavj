@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 About Me  
-- 💻 **Junior Full-stack web developer** skilled in both front-end and back-end technologies  
+- 💻 **Full-stack web developer** skilled in both front-end and back-end technologies  
 - ⚛️ Currently expanding my **React** and component-based UI knowledge  
 - 🧰 My core tech stack includes **HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, EJS and Bootstrap**  
 - 🎨 Focused on building **clean, maintainable, and responsive** user interfaces  
