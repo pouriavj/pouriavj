@@ -98,7 +98,7 @@
 
 
 ### 🖨️ 3D Printer Background  
-Before web developmen, I worked on **custom 3D printers**, including the design and programming of a **large-scale, multi-color 3D printer** which is a  registered **patent** now.  
+Before starting web journey, I worked on **custom 3D printers**, including the design and programming of a **large-scale, multi-color 3D printer** which is a  registered **patent** now.  
 These projects involved mechanical design, electronics, and firmware optimization for precise multi-material printing.  
 That engineering experience taught me **system-level thinking**, innovation, and attention to detail — qualities I now apply to every web project I build.
 
