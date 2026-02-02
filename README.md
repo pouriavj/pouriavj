@@ -81,7 +81,7 @@
 
 
 ---
-<p  style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:20px; align-items:center;">
+<p  style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:400px; align-items:center;">
   <a href="https://www.linkedin.com/in/pouriavojdani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
