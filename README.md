@@ -57,9 +57,9 @@
   <img src="assets/icons/restapi.svg" alt="REST API" height="60"/>
   <img src="assets/icons/git.svg" alt="Git" height="20"/>
   <img src="assets/icons/bash.svg" alt="Bash" height="60"/>
-  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="30"/>
-  <img src="https://img.icons8.com/color/48/cloudflare.png" alt="Cloudflare" height="20"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" height="20"/>
+  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="25"/>
+  <img src="https://img.icons8.com/color/48/cloudflare.png" alt="Cloudflare" height="25"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" height="25"/>
   <img src="assets/icons/sql.svg" alt="SQL" height="60"/>
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
 
