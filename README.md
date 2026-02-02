@@ -47,7 +47,6 @@
 ---
 ## 🔧 Most Used Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-  <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" height="20"/>
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
   <img src="assets/icons/jquery.svg" alt="jQuery" height="60"/>
@@ -57,11 +56,12 @@
   <img src="assets/icons/restapi.svg" alt="REST API" height="60"/>
   <img src="assets/icons/git.svg" alt="Git" height="20"/>
   <img src="assets/icons/bash.svg" alt="Bash" height="60"/>
-  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="25"/>
-  <img src="https://img.icons8.com/color/48/cloudflare.png" alt="Cloudflare" height="25"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" height="25"/>
   <img src="assets/icons/sql.svg" alt="SQL" height="60"/>
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
 
 
 
