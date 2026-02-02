@@ -47,7 +47,7 @@
 ---
 ## 🔧 Most Used Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-  <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" height="60"/>
+  <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" height="20"/>
   <img src="assets/icons/bootstrap.svg" alt="Bootstrap" height="20"/>
   <img src="assets/icons/canva.svg" alt="Canva" height="60"/>
   <img src="assets/icons/react.svg" alt="React" height="60"/>
