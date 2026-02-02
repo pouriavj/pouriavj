@@ -59,8 +59,7 @@
   <img src="assets/icons/bash.svg" alt="Bash" height="60"/>
   <img src="assets/icons/sql.svg" alt="SQL" height="60"/>
   <img src="assets/icons/vscode.svg" alt="VSCode" height="60"/>
-  <img src="https://img.icons8.com/color/48/ajax.png" alt="AJAX" height="60"/>
-  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="60"/>
+  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu" height="20"/>
 
 </p>
 
