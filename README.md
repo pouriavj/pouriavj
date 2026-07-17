@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 - 💻 **Full-stack web developer** building modern, production-ready web applications  
-- ⚛️ **Front-end:** Working with **React, Next.js, TypeScript, MUI,React Native, Bootstrap, HTML, CSS, JavaScript**, creating responsive, SEO-friendly, and component-based interfaces  
+- ⚛️ **Front-end:** Working with **React, Next.js, TypeScript, MUI, React Native, Bootstrap, HTML, CSS, JavaScript**, creating responsive, SEO-friendly, and component-based interfaces  
 - 🐳 **Back-end:** Experienced with **Node.js, Express, PostgreSQL**, designing efficient **database schemas**, building **REST APIs**, handling **authentication, session management**, and using **Docker** for scalable server-side applications  
 - 🎨 **UI/UX & Design:** Designing clean, user-friendly interfaces with **Adobe XD** and **Figma**, focused on accessibility, usability, and SEO best practices  
 
@@ -46,6 +46,7 @@
 ---
 ## 🔧 Most Used Tools
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" height="28"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" height="28"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="28"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28"/>
