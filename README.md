@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 - 💻 **Full-stack web developer** building modern, production-ready web applications  
-- ⚛️ **Front-end:** Working with **React, Next.js, TypeScript, MUI, Bootstrap, HTML, CSS, JavaScript**, creating responsive, SEO-friendly, and component-based interfaces  
+- ⚛️ **Front-end:** Working with **React, Next.js, TypeScript, MUI,React Native, Bootstrap, HTML, CSS, JavaScript**, creating responsive, SEO-friendly, and component-based interfaces  
 - 🐳 **Back-end:** Experienced with **Node.js, Express, PostgreSQL**, designing efficient **database schemas**, building **REST APIs**, handling **authentication, session management**, and using **Docker** for scalable server-side applications  
 - 🎨 **UI/UX & Design:** Designing clean, user-friendly interfaces with **Adobe XD** and **Figma**, focused on accessibility, usability, and SEO best practices  
 
