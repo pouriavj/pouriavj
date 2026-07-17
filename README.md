@@ -92,7 +92,3 @@
 
 </p>
 
----
-
-
-✨ Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you like my work.
