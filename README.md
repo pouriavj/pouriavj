@@ -11,7 +11,7 @@
 - ⚛️ **Front-end:** Working with **React, Next.js, TypeScript, MUI, Bootstrap, HTML, CSS, JavaScript**, creating responsive, SEO-friendly, and component-based interfaces  
 - 🐳 **Back-end:** Experienced with **Node.js, Express, PostgreSQL**, designing efficient **database schemas**, building **REST APIs**, handling **authentication, session management**, and using **Docker** for scalable server-side applications  
 - 🎨 **UI/UX & Design:** Designing clean, user-friendly interfaces with **Adobe XD** and **Figma**, focused on accessibility, usability, and SEO best practices  
-- 🖨️ **Engineering background:** Experienced in **3D printer design & firmware development**, giving strong problem-solving and hardware–software integration skills  
+
 
 
 ---
@@ -91,16 +91,6 @@
   </a>
 
 </p>
-
---- 
-
-
-
-
-### 🖨️ 3D Printer Background  
-Before starting web journey, I worked on **custom 3D printers**, including the design and programming of a **large-scale, multi-color 3D printer** which is a  registered **patent** now.  
-These projects involved mechanical design, electronics, and firmware optimization for precise multi-material printing.  
-That engineering experience taught me **system-level thinking**, innovation, and attention to detail — qualities I now apply to every web project I build.
 
 ---
 
